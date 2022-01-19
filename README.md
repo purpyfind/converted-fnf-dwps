@@ -4,12 +4,12 @@ Heya! Its me, NotAhmedEpic from the Nintendo Wii! Of course I am joking. Since t
 Hey. So here's the credits:
 
 Most of these will come from cover makers such as:
- -- Blantados
- -- ExtendedCentral
- -- GenoX
+ -- Blantados --
+ -- ExtendedCentral --
+ -- GenoX --
 
 SF2 soundfonts will be by:
- -- SuperStamps
+ -- SuperStamps -- 
 More in the future!
 
 NOTE: I am not stealing the soundfonts. Due to people not having computers, let me just make their wish come true!
