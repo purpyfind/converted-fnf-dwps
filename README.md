@@ -1,17 +1,21 @@
 # converted-fnf-dwps
-Heya! Its me, NotAhmedEpic from the Nintendo Wii! Of course I am joking. Since there's not that many good DWP's of FNF characters, I will convert them and post them here. I will list the original DWP creators!
+Heya! Its me, NotAhmedEpic from the Nintendo Wii! Of course I am joking. Since there's not that many good DWP's of FNF characters, I will convert various voicebanks, chromatics and soundfont (SF2 and SFZ) and post them here. I will also convert FLP's to MIDI's.
+Also, these will work **ONLY** on *FL Mobile* DirectWave, not on *FL PC* DirectWave.
 
-Hey. So here's the credits:
+CREDITS:
+Chromatic Scales:
+ ~ ExtendedCentral
+ ~ Chimmiemdp
 
-Most of these will come from cover makers such as:
- -- Blantados --
- -- ExtendedCentral --
- -- GenoX --
+Voicebanks:
+ ~ GenoX
+ ~ Blantados
+ ~ Aussie Axe
 
-SF2 soundfonts will be by:
- -- SuperStamps -- 
-More in the future!
+Soundfonts (SF2 and SFZ)
+ ~ SuperStamps
+ ~ LoganMcOof
 
-NOTE: I am not stealing the soundfonts. Due to people not having computers, let me just make their wish come true!
+Oh yeah. I will also be using OFFICIAL chroms, sf2's and voicebanks. 
+Each will have their own README file respectively. Except to see DWP's of og chroms/soundfonts/voicebanks by bbpanzu, The_Mayz, Rozebud, etc.
 
-These DWP's will be able to be used in FL Studio Mobile.
